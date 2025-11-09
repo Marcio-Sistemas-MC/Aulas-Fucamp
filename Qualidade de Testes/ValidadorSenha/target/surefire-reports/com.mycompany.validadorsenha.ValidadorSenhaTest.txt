@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.validadorsenha.ValidadorSenhaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.056 s <<< FAILURE! -- in com.mycompany.validadorsenha.ValidadorSenhaTest
+com.mycompany.validadorsenha.ValidadorSenhaTest.testValidar -- Time elapsed: 0.025 s <<< ERROR!
+com.mycompany.validadorsenha.ValidadorSenha$SenhaInvalidaException: A senha deve ter no mínimo 8 caracteres.
+	at com.mycompany.validadorsenha.ValidadorSenha.validar(ValidadorSenha.java:33)
+	at com.mycompany.validadorsenha.ValidadorSenhaTest.testValidar(ValidadorSenhaTest.java:48)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
