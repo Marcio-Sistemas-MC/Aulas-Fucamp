@@ -1,0 +1,4 @@
+com\mycompany\exemploproxy\ProxyArquivo.class
+com\mycompany\exemploproxy\Arquivo.class
+com\mycompany\exemploproxy\ArquivoReal.class
+com\mycompany\exemploproxy\ExemploProxy.class

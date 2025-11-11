@@ -1,0 +1,6 @@
+com\mycompany\exemplodecorator\ItalicoDecorador.class
+com\mycompany\exemplodecorator\Texto.class
+com\mycompany\exemplodecorator\NegritoDecorador.class
+com\mycompany\exemplodecorator\TextoDecorador.class
+com\mycompany\exemplodecorator\TextoSimples.class
+com\mycompany\exemplodecorator\ExemploDecorator.class
